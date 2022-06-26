@@ -41,7 +41,7 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/LucasAlbuquerque04/LucasAlbuquerque04/blob/output/snake.svg" alt="Snake animation" />
+ ![Snake animation](https://github.com/LucasAlbuquerque04/LucasAlbuquerque04/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
