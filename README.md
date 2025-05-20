@@ -1,13 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=730E99&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E6A820&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Albuquerque;I'm+19+years+old;I'm+from+Brazil;I+am+Analysis+and+Systems+Development+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E6A820&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Albuquerque;I'm+21+years+old;I'm+from+Brazil;I+am+Analysis+and+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasAlbuquerque04&show_icons=true&count_private=true&hide_border=true&title_color=E6A820&icon_color=37E699&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Albuquerque github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAlbuquerque04&layout=compact&hide_border=true&title_color=E6A820&text_color=37E699&bg_color=0d1117" />
 </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LucasAlbuquerque04&bg_color=0d1117&color=e6a820&line=e6a820&point=730e99&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LucasAlbuquerque04&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
