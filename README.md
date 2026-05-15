@@ -88,11 +88,11 @@
 
 <h3 align="center"> Contribuições</h3>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/LucasAlbuquerque04/LucasAlbuquerque04/output/snake.svg" alt="Snake animation"/>
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasAlbuquerque04/LucasAlbuquerque04/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasAlbuquerque04/LucasAlbuquerque04/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/LucasAlbuquerque04/LucasAlbuquerque04/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
